@@ -12,9 +12,6 @@
 - Data Science
 
 #
-- Golang, Python
-
-#
 ### Contact
 
 [![LinkedIn][1.1]][2.1]
