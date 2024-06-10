@@ -2,14 +2,16 @@
 
 ### Skills
 
-- Javascript, Typescript
+- Javascript, Typescript, Python
 - NodeJs, ReactJs, NextJs, React Native
 - Relational and non-relational databases
 
 #
 ### Interest
 
-- Microsservices
+- Data Science
+
+#
 - Golang, Python
 
 #
